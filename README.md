@@ -273,7 +273,7 @@ Use "smart" typograhic punctuation for things like quotes and dashes.
 Type: `boolean`
 Default: `false`
 
-Open All the Links in a New Tab is set to true.
+Open all the links in a new tab if set to true.
 
 ## Access to lexer and parser
 
